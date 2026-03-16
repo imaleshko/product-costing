@@ -1,0 +1,19 @@
+.tableWrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.table th,
+.table td {
+  padding: 12px 16px;
+  border: 1px solid #f0f0f0;
+}
