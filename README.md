@@ -17,4 +17,4 @@
 
 **Фронтенд**
 - React, Vite
-- SheetJS (`xlsx`) — генерація Excel
+- SheetJS (`xlsx`)
